@@ -1,0 +1,10 @@
+SAMPLE DOCUMENT C — COMPLAINT EMAIL
+Date: 15 March 2026
+
+To: support@abc-construction.example
+From: emeka@example.test
+Subject: Breach of delivery agreement
+
+I am writing about the contract and payment made for the building materials. Delivery was due on 10 March 2026, but the materials have not been delivered. Please explain the delay and arrange delivery or a refund.
+
+This fictional document is created only for a student demonstration.
